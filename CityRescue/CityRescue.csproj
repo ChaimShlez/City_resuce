@@ -51,11 +51,11 @@
     <Compile Include="Injuries.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Zone.cs" />
+    <Compile Include="ZoneEnum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Compile Include="EmergencyEvent.cs" />
+    <Compile Include="EmergencyEnum.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -8,7 +8,7 @@ namespace CityRescue
 {
     internal class Injuries : EmergencyTeams
     {
-        public Injuries(string name, EmergencyEvent region, bool isFlag, Zone zone) : base(name, region, isFlag, zone)
+        public Injuries(string name, EmergencyEnum region, bool isFlag, ZoneEnum zone) : base(name, region, isFlag, zone)
         {
         }
 

@@ -11,11 +11,11 @@ namespace CityRescue
         static void Main(string[] args)
         {
 
-            EmergencyTeams blockages = new Blockages("block", EmergencyEvent.BLOCKAGE, true, Zone.EAST);
-            EmergencyTeams floods = new Floods("floods", EmergencyEvent.FLOOD, true, Zone.NORTH);
-            EmergencyTeams injuries = new Injuries("injuries", EmergencyEvent.INJURY, true, Zone.SOUTH);
+            EmergencyTeams blockages = new Blockages("block", EmergencyEnum.BLOCKAGE, true, ZoneEnum.EAST);
+            EmergencyTeams floods = new Floods("floods", EmergencyEnum.FLOOD, true, ZoneEnum.NORTH);
+            EmergencyTeams injuries = new Injuries("injuries", EmergencyEnum.INJURY, true, ZoneEnum.SOUTH);
 
-            EmergencyReport reoprt = new EmergencyReport(EmergencyEvent.BLOCKAGE, Zone.EAST, 3,4, "Life was in danger");
+            EmergencyReport reoprt = new EmergencyReport(EmergencyEnum.BLOCKAGE, ZoneEnum.EAST, 3,4, "Life was in danger");
 
 
             List<EmergencyTeams> teams = new List<EmergencyTeams>();

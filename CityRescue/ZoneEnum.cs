@@ -1,4 +1,4 @@
-﻿public enum Zone
+﻿public enum ZoneEnum
 {
     EAST,
     WEST,

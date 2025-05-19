@@ -10,12 +10,12 @@ namespace CityRescue
     {
 		private string _Name;
 
-        private EmergencyEvent _Emergency;
-        private Zone _Zone;
+        private EmergencyEnum _Emergency;
+        private ZoneEnum _Zone;
 
         private bool _IsFlag;
 
-        public EmergencyTeams(string name, EmergencyEvent events, bool isFlag, Zone zone)
+        public EmergencyTeams(string name, EmergencyEnum events, bool isFlag, ZoneEnum zone)
         {
             _Name = name;
             _Emergency = events;
@@ -36,13 +36,13 @@ namespace CityRescue
 			set { _Name = value; }
 		}
 
-        public EmergencyEvent emergency
+        public EmergencyEnum emergency
         {
             get { return _Emergency; }
             set { _Emergency = value; }
         }
 
-        public Zone zone
+        public ZoneEnum zone
         {
             get { return _Zone; }
             set { _Zone= value; }

@@ -8,13 +8,13 @@ namespace CityRescue
 {
     internal class EmergencyReport
     {
-        private EmergencyEvent _Emergency;
-        private Zone _Zone;
+        private EmergencyEnum _Emergency;
+        private ZoneEnum _Zone;
         private int _Serious;
         private int _longProblem;
         private string _Summery;
 
-        public EmergencyReport(EmergencyEvent events, Zone zone, int serious, 
+        public EmergencyReport(EmergencyEnum events, ZoneEnum zone, int serious, 
             int longProblem, string summery)
         {
             _Emergency = events;
@@ -42,13 +42,13 @@ namespace CityRescue
             set { _Summery = value; }
         }
 
-        public EmergencyEvent emergency
+        public EmergencyEnum emergency
         {
             get { return _Emergency; }
             set { _Emergency = value; }
         }
 
-        public Zone zone
+        public ZoneEnum zone
         {
             get { return _Zone; }
             set { _Zone = value; }

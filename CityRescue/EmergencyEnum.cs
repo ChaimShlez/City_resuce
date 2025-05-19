@@ -1,4 +1,4 @@
-﻿enum EmergencyEvent{
+﻿enum EmergencyEnum{
 FLOOD,
 INJURY,
 BLOCKAGE

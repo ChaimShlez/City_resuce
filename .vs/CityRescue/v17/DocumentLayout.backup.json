@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4401DD3F-1E33-479A-BF72-974537096068}|CityRescue\\CityRescue.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\cityrescue\\cityrescue\\dispatchcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4401DD3F-1E33-479A-BF72-974537096068}|CityRescue\\CityRescue.csproj|solutionrelative:cityrescue\\dispatchcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 279,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-19T12:10:48.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "EmergencyEvent.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\EmergencyEvent.cs",
               "RelativeDocumentMoniker": "CityRescue\\EmergencyEvent.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DispatchCenter.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\DispatchCenter.cs",
               "RelativeDocumentMoniker": "CityRescue\\DispatchCenter.cs",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Blockages.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\Blockages.cs",
               "RelativeDocumentMoniker": "CityRescue\\Blockages.cs",
@@ -97,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Injuries.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\Injuries.cs",
               "RelativeDocumentMoniker": "CityRescue\\Injuries.cs",
@@ -110,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Floods.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\Floods.cs",
               "RelativeDocumentMoniker": "CityRescue\\Floods.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EmergencyTeams.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\EmergencyTeams.cs",
               "RelativeDocumentMoniker": "CityRescue\\EmergencyTeams.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Zone.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\Zone.cs",
               "RelativeDocumentMoniker": "CityRescue\\Zone.cs",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmergencyReport.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\EmergencyReport.cs",
               "RelativeDocumentMoniker": "CityRescue\\EmergencyReport.cs",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\CityRescue\\CityRescue\\Program.cs",
               "RelativeDocumentMoniker": "CityRescue\\Program.cs",
