@@ -1,0 +1,7 @@
+D:\Users\User\devlopment\Kodecode\homeWorks\oop\CityRescue\CityRescue\bin\Debug\CityRescue.exe.config
+D:\Users\User\devlopment\Kodecode\homeWorks\oop\CityRescue\CityRescue\bin\Debug\CityRescue.exe
+D:\Users\User\devlopment\Kodecode\homeWorks\oop\CityRescue\CityRescue\bin\Debug\CityRescue.pdb
+D:\Users\User\devlopment\Kodecode\homeWorks\oop\CityRescue\CityRescue\obj\Debug\CityRescue.csproj.AssemblyReference.cache
+D:\Users\User\devlopment\Kodecode\homeWorks\oop\CityRescue\CityRescue\obj\Debug\CityRescue.csproj.CoreCompileInputs.cache
+D:\Users\User\devlopment\Kodecode\homeWorks\oop\CityRescue\CityRescue\obj\Debug\CityRescue.exe
+D:\Users\User\devlopment\Kodecode\homeWorks\oop\CityRescue\CityRescue\obj\Debug\CityRescue.pdb
